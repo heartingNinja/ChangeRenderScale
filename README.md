@@ -13,7 +13,7 @@ This script finds the current FPS. The int frameRate is public as it is used wit
 
 3)Set Quality:
 This is used to Set the QualitySettings or the renderScale. 
-This sets a PlayerPref for QualitySettings. 
+This script sets a PlayerPref for QualitySettings. 
 Where the SetGraphicsRenderByFPS() void is and where to edit the auto graphics change.
 
  
